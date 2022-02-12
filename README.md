@@ -2,9 +2,9 @@
 
 ##  Ejercicio 1:
 ## Despliegue del backend de nodepop (node-express-mongodb)
-
+IP-DNS:
 ```sh 
-IP-DNS: ec2-184-72-247-70.compute-1.amazonaws.com
+ec2-184-72-247-70.compute-1.amazonaws.com
 ``` 
 
 ## API
