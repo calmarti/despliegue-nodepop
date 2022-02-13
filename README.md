@@ -40,7 +40,7 @@ X-Owner: calmarti
 ```
 
 ## Ejercicio 2:
-## Default server: frontend de nodepop (react)
+## Default server: nodepop-react (frontend y backend)
 ```sh
 184.72.247.70
 ```
